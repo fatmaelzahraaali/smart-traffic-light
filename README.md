@@ -1,5 +1,7 @@
 #smart traffic light
+
 ##self-diagnostics system
+
 **this system checks if there is a camera failure**
 
 ###The first step is
